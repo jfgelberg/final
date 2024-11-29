@@ -1,9 +1,9 @@
 # final - Aplicaciones Híbridas
 
-Profesor: Victor Villafañe
-Alumnos: Javier Gelberg - Karen Joffre – Kevin Crowley
+# Profesor: Victor Villafañe
+# Alumnos: Javier Gelberg - Karen Joffre – Kevin Crowley
 --------------------------------------------------------------------
-Se entrega:
+# Se entrega:
 1. Código: Subir el código completo de la aplicación a un repositorio de GitHub. 
 	- https://github.com/jfgelberg/final
 	
