@@ -1,0 +1,7 @@
+.contenedorLista{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin-top: 20px;
+}

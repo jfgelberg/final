@@ -1,0 +1,112 @@
+/* Estilos generales */
+
+
+header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+li {
+    list-style: none;
+    text-align: left;
+    border-bottom: 1px solid #000000;
+}
+
+
+h2 {
+    font-size: 2.5 rem;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.botonNuevo{
+    background-color: #110142;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    max-width: 50%;
+}
+.botonNuevo:hover{
+    background-color: #4a4a4a;
+
+}
+
+/* Estilos para el footer */
+
+
+.btnEliminar {
+    background-color: #f44336;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 50%;
+    font-size: 1em;
+    cursor: pointer;
+}	
+
+.botonVer, 
+.botonEditar, 
+.botonEliminar,
+.botonFavorito,
+.botonNuevo{
+    background-color: #453c5c;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    width: 124px;
+    text-align: center;
+}
+
+.botonEditar{
+    background-color: #beed80;
+    color: black;
+}
+.botonEliminar{
+    background-color: #fd4a32;
+    color: white;
+}
+.botonFavorito{
+    background-color: #d3db00;
+    color: black;
+}
+.botonNuevo{
+    background-color: #000080;
+    color: white;
+}
+
+.botonVer:hover, 
+.botonEditar:hover,
+.botonEliminar:hover,
+.botonFavorito:hover,
+.botonNuevo:hover{
+    background-color: #51647a;
+    transform: scale(1.1);
+    transition: background-color 0.3s ease, transform 0.3s ease; 
+}
+.botonEditar:hover{
+    background-color: #59d999;
+}
+.botonEliminar:hover{
+    background-color: #fe8260;
+    color: black;
+}
+.botonFavorito:hover{
+    background-color: #faff00;
+    color: black;
+}
+.botonNuevo:hover{
+    background-color: #0d069a;
+}

@@ -1,0 +1,56 @@
+/* Título principal de la página */
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Agrega sombra */
+}
+
+/* Subtítulos */
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #2980b9;
+  margin-bottom: 20px;
+}
+
+/* Títulos en las películas */
+h4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #34495e;
+  margin-bottom: 15px;
+}
+
+/* Mejorar la visibilidad de los textos en el carousel */
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5); /* Fondo oscuro para mejor contraste */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.text-muted {
+  font-size: 0.9rem;
+  color: #7f8c8d; /* Para los subtítulos pequeños */
+}
+
+.text-warning {
+  font-weight: bold;
+  color: #f39c12; /* Colores más vivos para las estrellas de calificación */
+}
+
+/* Mejorar apariencia de los cards */
+.card-body {
+  padding: 15px;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #34495e;
+}
