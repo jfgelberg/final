@@ -1,4 +1,4 @@
-# final - Aplicaciones Híbridas
+# Final - Aplicaciones Híbridas
 
 # Profesor: Victor Villafañe
 # Alumnos: Javier Gelberg - Karen Joffre – Kevin Crowley
